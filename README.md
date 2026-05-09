@@ -6,7 +6,11 @@ Roll Number: SP24-BAI-049
 
 ## Project Description
 
+<<<<<<< HEAD
 This project performs advanced student performance analysis.
+=======
+This project performs advanced student performance analysis and provide thoughtful insights.
+>>>>>>> branch01
 
 ## Project Structure
 
