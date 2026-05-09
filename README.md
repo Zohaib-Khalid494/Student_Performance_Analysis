@@ -6,7 +6,7 @@ Roll Number: SP24-BAI-049
 
 ## Project Description
 
-A small exploratory data analysis (EDA) and data-cleaning workflow for student performance data. The notebook loads the raw dataset, introduces data-quality issues for practice, cleans the data, and produces summary statistics and visualizations.
+This project performs advanced student performance analysis.
 
 ## Project Structure
 
